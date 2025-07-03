@@ -1,6 +1,6 @@
 # IONotes
 
-**Rodzaje diagramów:**
+**Rodzaje diagramów:**  
 Logical - klasy  
 Scenerios - use case  
 Activity - prostokąty / swimline / state'y  
